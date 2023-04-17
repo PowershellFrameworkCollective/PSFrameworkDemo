@@ -1,0 +1,11 @@
+﻿TOPIC
+	about_BeerManager
+	
+SHORT DESCRIPTION
+	Explains how to use the BeerManager powershell module
+	
+LONG DESCRIPTION
+	<Insert Content here>
+
+KEYWORDS
+	BeerManager

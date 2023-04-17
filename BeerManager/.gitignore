@@ -1,0 +1,22 @@
+﻿
+# ignore the settings folder and files for VSCode and PSS
+.vscode/*
+*.psproj
+*TempPoint*
+
+# Ignore staging info from Visual Studio
+library/BeerManager/.vs/*
+library/BeerManager/BeerManager/bin/*
+library/BeerManager/BeerManager/obj/*
+
+# ignore PowerShell Studio MetaData
+BeerManager/BeerManager.psproj
+BeerManager/BeerManager.psproj.bak
+BeerManager/BeerManager.psprojs
+BeerManager/BeerManager.psproj
+
+# ignore the TestResults
+TestResults/*
+
+# ignore the publishing Directory
+publish/*

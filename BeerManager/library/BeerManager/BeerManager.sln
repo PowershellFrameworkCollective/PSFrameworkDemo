@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BC734821-409C-425D-B54E-F72789F1B263}") = "BeerManager", "BeerManager\BeerManager.csproj", "{97AA65DC-9515-4A10-9225-E530BDF66A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97AA65DC-9515-4A10-9225-E530BDF66A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AA65DC-9515-4A10-9225-E530BDF66A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AA65DC-9515-4A10-9225-E530BDF66A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AA65DC-9515-4A10-9225-E530BDF66A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {440B4066-0759-4DD6-8D4C-6E28DEAE2107}
+	EndGlobalSection
+EndGlobal
